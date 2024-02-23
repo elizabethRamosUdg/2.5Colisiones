@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2.4 Bucles.sln"
+    "dotnet.defaultSolution": "2.5. Detección de colisiones.sln"
 }
